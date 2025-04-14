@@ -14,7 +14,7 @@ This project is a classic Hangman game implemented using HTML, CSS, and JavaScri
 
 Include a screenshot or gif demonstrating your Hangman game in action:
 
-![Hangman Game Demo]([demo.png](https://www.facebook.com/softyskillsedu/videos/984575053142482))
+![Hangman Game Demo](https://www.facebook.com/softyskillsedu/videos/984575053142482)
 
 ## Installation
 
